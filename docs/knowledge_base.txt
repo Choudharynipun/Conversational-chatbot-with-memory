@@ -1,0 +1,5 @@
+LangChain is a framework for developing applications powered by language models.
+FAISS is a library for efficient similarity search and clustering of dense vectors.
+The OpenAI API provides access to powerful language models like GPT-4.
+This chatbot uses LangChain, FAISS, and OpenAI to respond with memory.
+You can extend the knowledge base by adding more documents to the vector store.
