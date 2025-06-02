@@ -17,5 +17,5 @@ This project is a sophisticated conversational chatbot application built using *
 - LangChain (for LLM chain management)
 - FAISS (for fast vector similarity search)
 - OpenAI GPT-4 API (for advanced natural language understanding)
-- HTML5, CSS3, Vanilla JavaScript (for frontend UI)
+- HTML5, CSS3
 
