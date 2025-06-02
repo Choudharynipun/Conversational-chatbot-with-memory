@@ -1,7 +1,7 @@
 # Conversational Chatbot with Memory
 
 ## Overview
-This project is a sophisticated conversational chatbot application built using **Flask**, **LangChain**, and **FAISS** vector store for memory. It is designed to simulate a human-like conversation by retaining memory of the previous exchanges and retrieving relevant knowledge from a vector database. The chatbot leverages OpenAI's GPT-4 for generating coherent and contextually accurate responses.
+This project is a sophisticated conversational chatbot application built using **Flask**, **LangChain**, and **FAISS** vector store for memory. It is designed to simulate a human-like conversation by retaining memory of the previous exchanges and retrieving relevant knowledge from a vector database. The chatbot leverages OpenAI's GPT-3.5 for generating coherent and contextually accurate responses.
 
 ## Features
 - **Conversational Memory:** Uses FAISS vector search to retrieve contextually relevant conversation snippets.
